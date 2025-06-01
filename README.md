@@ -3,7 +3,6 @@
 I'm a full-stack software engineer with a strong focus on backend development.  
 Currently sharpening my skills in the **Java backend ecosystem**, including **Spring Boot**, while building full-stack applications using **TypeScript**, and **PostgreSQL**.
 
----
 
 ## 🛠 Tech Stack
 
@@ -14,7 +13,6 @@ Currently sharpening my skills in the **Java backend ecosystem**, including **Sp
 **Tools**: Git, Postman
 **Data/Cloud**: Azure, Azure Data Factory, PowerBI
 
----
 
 ## 📫 Contact
 
