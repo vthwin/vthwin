@@ -1,17 +1,16 @@
 # 👋 Hi, I'm Vi Huynh
 
-I'm a full-stack software engineer with a strong focus on backend development.  
-Currently sharpening my skills in the **Java backend ecosystem**, including **Spring Boot**, while building full-stack applications using **TypeScript**, and **PostgreSQL**.
+I'm a full-stack software engineer with a strong focus on backend development. Currently sharpening my skills in the **Java** backend stack while building full-stack applications in the JS stack.
 
 
 ## 🛠 Tech Stack
 
-**Languages**: Go, TypeScript, JavaScript, Java, Python, SQL, KQL
+**Languages**: Go, TypeScript, JavaScript, Java, Python, SQL
 **Backend**: Spring Boot, Express.js 
-**Frontend**: React
+**Frontend**: React.js
 **Database**: PostgreSQL, MySQL
 **Tools**: Git, Postman
-**Data/Cloud**: Azure, Azure Data Factory, PowerBI
+**Azure/Microsoft Technologies**: Azure, Azure Data Explorer, Azure Data Factory, PowerBI, KQL (Kusto Query Language)
 
 
 ## 📫 Contact
