@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Vi Huynh
 
-<!--
-**vthwin/vthwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer with a strong focus on backend development.  
+Currently sharpening my skills in the **Java backend ecosystem**, including **Spring Boot**, while building full-stack applications using **TypeScript**, and **PostgreSQL**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages**: Go, TypeScript, JavaScript, Java, Python, SQL, KQL
+**Backend**: Spring Boot, Express.js 
+**Frontend**: React
+**Database**: PostgreSQL, MySQL
+**Tools**: Git, Postman
+**Data/Cloud**: Azure, Azure Data Factory, PowerBI
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/vthwin/)
