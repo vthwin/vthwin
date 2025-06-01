@@ -5,12 +5,12 @@ I'm a full-stack software engineer with a strong focus on backend development. C
 
 ## 🛠 Tech Stack
 
-**Languages**: Go, TypeScript, JavaScript, Java, Python, SQL
-**Backend**: Spring Boot, Express.js 
-**Frontend**: React.js
-**Database**: PostgreSQL, MySQL
-**Tools**: Git, Postman
-**Azure/Microsoft Technologies**: Azure, Azure Data Explorer, Azure Data Factory, PowerBI, KQL (Kusto Query Language)
+**Languages**: Go, TypeScript, JavaScript, Java, Python, SQL <br/>
+**Backend**: Spring Boot, Express.js <br/>
+**Frontend**: React.js <br/>
+**Database**: PostgreSQL, MySQL <br/>
+**Tools**: Git, Postman <br/>
+**Azure/Microsoft Technologies**: Azure, Azure Data Explorer, Azure Data Factory, PowerBI, KQL (Kusto Query Language) <br/>
 
 
 ## 📫 Contact
