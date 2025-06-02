@@ -12,8 +12,8 @@ I'm a full-stack software engineer with a strong focus on backend development. C
 
 ## Work History
 
-**Computer Scientist** at **Naval Information Warfare Center** (From July, 2023 - Present): My responsibilities include (but are not limited to) software development, web development, cybersecurity assessments, and more.
-Tech Stack: Azure Cloud, Azure Data Factory, PowerBI, KQL, Golang, Python and TypeScript.
+**Computer Scientist** at **Naval Information Warfare Center** (From July, 2023 - Present): My responsibilities include (but are not limited to) software development, web development, cybersecurity assessments, and more. <br />
+**Work Tech Stack**: Azure Cloud, Azure Data Factory, PowerBI, KQL, Golang, Python and TypeScript.
 
 ## 📫 Contact
 
