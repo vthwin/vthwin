@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vi Huynh
 
-I'm a full-stack software engineer with a strong focus on backend development. Currently sharpening my skills in the **Java** backend stack while building full-stack applications in the JS stack.
+I'm a software engineer with a strong focus on backend development. Currently sharpening my skills in the **Java** backend stack while building full-stack applications in the JS stack.
 
 
 ## 🛠 Personal Tech Stack
