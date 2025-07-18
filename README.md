@@ -1,3 +1,3 @@
 # 👋 Hi, I'm Vi Huynh
 
-I am a tech enthusiast with experience in software development, data analytics, and data engineering for the DoD.
+I'm a tech enthusiast with a focus on back-end software engineering, but I'm always open to exploring other technologies that spark my interest.
