@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi 👋
 
-My name is Vi Huynh, and I'm a software engineer working in the defense industry. Tech is where my passion lies, and I hope to learn something new about it each and every day.
+I'm Vi, I'm a life-long learner and someone who is passionate about software engineering, especially creating and designing robust software.
